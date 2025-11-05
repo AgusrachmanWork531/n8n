@@ -1,4 +1,4 @@
-# BEST PRACTICE SETUP n8n Workflow pada server VPS dengan containerize
+# SETUP n8n Workflow pada server VPS dengan containerize
 
 ## Prerequisites
 
